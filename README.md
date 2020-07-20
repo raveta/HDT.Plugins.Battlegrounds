@@ -1,1 +1,1 @@
-"# HDT.Plugins.Battlegrounds" 
+%appdata%\HearthstoneDeckTracker\Plugins
